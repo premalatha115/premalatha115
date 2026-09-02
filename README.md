@@ -1,6 +1,6 @@
 # Hi 👋 I'm Premalatha!
 
-### 👩‍💻 Java Backend Developer | Software Engineer
+# 👩‍💻 Java Backend Developer | Software Engineer
 
 I'm passionate about building backend applications using Java and Spring Boot.
 
