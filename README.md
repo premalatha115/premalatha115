@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Premalatha!
 
-<!--
-**premalatha115/premalatha115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Java Backend Developer | Software Engineer
 
-Here are some ideas to get you started:
+I'm passionate about building backend applications using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- System Design Fundamentals
+- Microservices Architecture
+- Data Structures & Algorithms
+
+💻 Technical Skills:
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST APIs
+- Docker
+- Git
+
+📫 Connect with me:
+- LinkedIn: Your LinkedIn Link
