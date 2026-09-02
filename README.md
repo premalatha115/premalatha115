@@ -20,4 +20,4 @@ I'm passionate about building backend applications using Java and Spring Boot.
 - Git
 
 📫 Connect with me:
-- LinkedIn: Your LinkedIn Link
+- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/premalatha115/)
